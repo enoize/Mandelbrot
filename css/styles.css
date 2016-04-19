@@ -1,0 +1,11 @@
+	
+	body {
+		height: 750px;
+		display: flex;
+		align-items:center;
+		justify-content:center;
+	}
+	
+	#canvas {
+		box-shadow: #9E9E9E 0px 0px 50px;
+	}
